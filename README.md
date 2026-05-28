@@ -107,7 +107,7 @@ This is a major advantage because most student profiles ignore software testing.
 
 ## ⚒️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,render,netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,netlify" />
 
 </div>
 
