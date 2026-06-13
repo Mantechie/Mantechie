@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Frontend+Developer;Cybersecurity+Enthusiast;Python+%26+Flask+Developer;Building+Secure+Web+Applications;Machine+Learning+%26+Security+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Frontend+Developer;Cybersecurity+Analyst;Python+%26+Flask+Developer;Building+Secure+Web+Applications;Machine+Learning+%26+Security+Projects" />
 
 <br>
 
